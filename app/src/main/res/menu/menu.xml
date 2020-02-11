@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menuOpcion1"
+        android:title="Categorías" />
+    <item
+        android:id="@+id/menuOpcion2"
+        android:title="NUEVO" />
+</menu>
